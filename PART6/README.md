@@ -6,7 +6,7 @@ Production-ready chat agent cho bài lab Part 6.
 
 Railway URL:
 
-`https://mainservice-production-6da5.up.railway.app/`
+`https://mainservice-production-6da5.up.railway.app/docs`
 
 ## Tinh nang
 
