@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: part6-production-agent
+    env: docker
+    healthCheckPath: /health
+    envVars:
+      - key: PORT
+        value: 8000
+      - key: REDIS_URL
+        sync: false
+      - key: AGENT_API_KEY
+        sync: false
